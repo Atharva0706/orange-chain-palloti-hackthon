@@ -1,0 +1,11 @@
+fastapi 
+joblib 
+pandas 
+numpy 
+scikit-learn
+uvicorn
+xgboost
+langchain-groq
+langgraph
+langchain
+playwright
